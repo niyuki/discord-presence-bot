@@ -1,11 +1,3 @@
-# niyuki-cli
-Probably my first package but one of the most advanced ones. It's made up for you so you can run your bot with mongo and all needed set up in less than a minute(depending on your copy skills lmao)
-
-# It's simple
-Just get into your new Project or BOT FILE and type in terminal `npx niyuki-cli` and answer the questions on it and this cli will set literally everything up for you. you can just run the bot after everything is ready..
-
-#F
-
 # multilingual discord-presence-bot (/w MongoDB)
 
 <p align="center"> Add role to users and send message to log when they are playing a game!</p>
