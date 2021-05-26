@@ -1,0 +1,14 @@
+{
+    "token": "ODQ0ODA4ODY3OTc1NTI4NDU4.YKXzkQ.cCl0hqQ59uUdMSitNR0yNOvhCPk",
+    "prefix": "+",
+    "owner": "730448609790787585",
+    "mongopath": "mongodb+srv://Niyuki:Niyuki8080@cluster0.bjgbr.mongodb.net/discord-presence-bot?retryWrites=true&w=majority",
+
+    "gamelog": "793970318053998624",
+    "rolelog": "793970318053998625",
+    "voicechannel": "793970318053998631",
+
+    "startemoji": "<a:794449578220322826:797479877213290507>", 
+    "stopemoji": "<a:794449578036428811:797479877380276245>",
+    "language": "tr"
+}
