@@ -29,9 +29,6 @@ module.exports = {
           value: `${shardLatency}`,
           inline: true
         })
-    .setColor(config.embedcolor)
-    .setFooter(config.embedfooter)
-
     await msg.edit(embed)
   }
 }
