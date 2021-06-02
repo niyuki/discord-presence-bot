@@ -1,6 +1,7 @@
 # multilingual discord-presence-bot (/w MongoDB)
 
-<p align="center"> Add role to users and send message to log when they are playing a game!</p>
+<p align="center"> Add role to users and send message to log when they are playing a game <br>
+(P.S. It's going to add the role with the name of the game | Example: Game -> 'VALORANT' so it's going to look after 'VALORANT' Role so set it up like that)!</p>
 
 
 # Getting Started
